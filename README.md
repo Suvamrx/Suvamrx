@@ -2,7 +2,6 @@
 - 👀 I’m interested in Android and AI
 - 🌱 I’m currently learning Android Dev
 - 📫 How to reach me suvamrx@gmail.com
-- 
 ![Suvam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suvamrx&show_icons=true&theme=nightowl)
 
 <!---
