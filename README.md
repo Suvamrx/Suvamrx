@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Suvamrx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Suvamrx  
+- 👀 I’m interested in Android and AI
+- 🌱 I’m currently learning Android Dev
+- 💞️ I’m looking to collaborate on Microsoft
+- 📫 How to reach me suvamrx@gmail.com
 ![Suvam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suvamrx&show_icons=true&theme=tokyonight)
 
 <!---
