@@ -17,7 +17,9 @@
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suvamrx&theme=nightowl)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suvamrx&layout=compact&theme=nightowl)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suvamrx&theme=nightowl)  
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Suvamrx&theme=nightowl)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suvamrx&theme=nightowl)
 
 ---
 
