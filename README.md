@@ -16,7 +16,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Suvam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suvamrx&show_icons=true&theme=nightowl)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suvamrx&theme=nightowl)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suvamrx&layout=compact&theme=nightowl)
 
 ---
 
